@@ -1,0 +1,23 @@
+# Set wallpaper
+nitrogen --restore
+
+# Initialize compositor
+compton &
+
+# Create top panel
+tint2 &
+
+# Destroy any previous docks
+pkill -9 plank
+
+# Create dock
+plank &
+
+# Kill any existing network manager applets
+pkill -15 nm-applet
+
+# Initialize network manager applet
+nm-applet &
+
+# Start audio server
+pulseaudio &
