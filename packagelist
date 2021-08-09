@@ -1,0 +1,17 @@
+Packages installed on base debian:
+
+chromium
+openbox
+lightdm
+pulseaudio
+network-manager-gnome
+xterm
+alsa-utils
+rofi
+tint2
+plank
+compton
+x11-xserver-utils
+nitrogen
+dmz-cursor-theme
+psmisc
