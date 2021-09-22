@@ -7,4 +7,4 @@ Web Linux is built to only run a browser, however, it is possible to run it with
 # Use Cases
 This OS is good for use in schools where online applications are the only programs being used. It is also useful for any folks out there who just use their computer to do things on a web browser.
 
-This OS is also useful for coffee shops or anywhere that needs a secure system that is very difficult.
+This OS is also useful for coffee shops or anywhere that needs a secure system that is very difficult to hack or tamper with.
